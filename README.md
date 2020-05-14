@@ -1,0 +1,2 @@
+# Warning-system-for-driver
+In order to ensure pedestrian safety and vehicle speed limits in areas with high pedestrian density/residential areas, a system to detect the traffic density/ school areas/ residential areas and accordingly warns the driver about the speed limit for vehicles using vision based systems which sense the speed limit signs or sign boards for schools/hospitals/accident prone areas etc. and may decide upon the safe speed value with which the vehicle need to operate. The system provides a warning to the driver, if the speed limits are breached.
